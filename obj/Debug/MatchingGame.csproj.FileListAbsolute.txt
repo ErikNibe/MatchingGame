@@ -1,0 +1,10 @@
+C:\Users\erikn\OneDrive\Área de Trabalho\C#\Visual_Studio\MatchingGame\bin\Debug\MatchingGame.exe.config
+C:\Users\erikn\OneDrive\Área de Trabalho\C#\Visual_Studio\MatchingGame\bin\Debug\MatchingGame.exe
+C:\Users\erikn\OneDrive\Área de Trabalho\C#\Visual_Studio\MatchingGame\bin\Debug\MatchingGame.pdb
+C:\Users\erikn\OneDrive\Área de Trabalho\C#\Visual_Studio\MatchingGame\obj\Debug\MatchingGame.csproj.AssemblyReference.cache
+C:\Users\erikn\OneDrive\Área de Trabalho\C#\Visual_Studio\MatchingGame\obj\Debug\MatchingGame.Form1.resources
+C:\Users\erikn\OneDrive\Área de Trabalho\C#\Visual_Studio\MatchingGame\obj\Debug\MatchingGame.Properties.Resources.resources
+C:\Users\erikn\OneDrive\Área de Trabalho\C#\Visual_Studio\MatchingGame\obj\Debug\MatchingGame.csproj.GenerateResource.cache
+C:\Users\erikn\OneDrive\Área de Trabalho\C#\Visual_Studio\MatchingGame\obj\Debug\MatchingGame.csproj.CoreCompileInputs.cache
+C:\Users\erikn\OneDrive\Área de Trabalho\C#\Visual_Studio\MatchingGame\obj\Debug\MatchingGame.exe
+C:\Users\erikn\OneDrive\Área de Trabalho\C#\Visual_Studio\MatchingGame\obj\Debug\MatchingGame.pdb
