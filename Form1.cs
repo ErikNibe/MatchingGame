@@ -42,5 +42,17 @@ namespace MatchingGame
                 }
             }
         }
+
+        private void RevealIcon_Click(object sender, EventArgs e)
+        {
+            Label clickedIcon = sender as Label;
+
+            if (clickedIcon != null)
+            {
+                if (clickedIcon.ForeColor == Color.Black) return;
+
+                clickedIcon.ForeColor = Color.Black;
+            }
+        }
     }
 }
